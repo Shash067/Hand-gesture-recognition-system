@@ -1,0 +1,37 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+
+# Dataset files
+*.csv
+*.xlsx
+data/
+
+# Media files
+*.avi
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Logs
+*.log
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
